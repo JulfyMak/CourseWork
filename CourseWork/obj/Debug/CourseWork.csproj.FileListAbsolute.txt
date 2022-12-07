@@ -1,0 +1,87 @@
+C:\Users\Max\Desktop\application_languages\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\Max\Desktop\application_languages\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\Max\Desktop\application_languages\CourseWork\obj\Debug\CourseWork.csprojAssemblyReference.cache
+C:\Users\Max\Desktop\application_languages\CourseWork\obj\Debug\CourseWork.Form1.resources
+C:\Users\Max\Desktop\application_languages\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\Max\Desktop\application_languages\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\Max\Desktop\application_languages\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\application_languages\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\Max\Desktop\application_languages\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\Max\Desktop\application_languages\CourseWork\obj\Debug\CourseWork.HelpForm.resources
+C:\Users\Max\Desktop\application_languages\CourseWork\obj\Debug\CourseWork.InfoForm.resources
+C:\CourseWork\bin\Debug\CourseWork.exe
+C:\CourseWork\bin\Debug\CourseWork.pdb
+C:\CourseWork\obj\Debug\CourseWork.csprojAssemblyReference.cache
+C:\CourseWork\obj\Debug\CourseWork.Form1.resources
+C:\CourseWork\obj\Debug\CourseWork.HelpForm.resources
+C:\CourseWork\obj\Debug\CourseWork.InfoForm.resources
+C:\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\CourseWork\obj\Debug\CourseWork.exe
+C:\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\Max\Desktop\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\Max\Desktop\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\Max\Desktop\CourseWork\obj\Debug\CourseWork.HelpForm.resources
+C:\Users\Max\Desktop\CourseWork\obj\Debug\CourseWork.InfoForm.resources
+C:\Users\Max\Desktop\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\Max\Desktop\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\Max\Desktop\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\Max\Desktop\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\Max\Desktop\CourseWork\obj\Debug\CourseWork.csprojAssemblyReference.cache
+C:\Users\Max\Desktop\CourseWork\bin\Debug\MathNet.Numerics.dll
+C:\Users\Max\Desktop\CourseWork\bin\Debug\MathNet.Numerics.xml
+C:\Users\Max\Desktop\CourseWork\obj\Debug\CourseWork.csproj.CopyComplete
+C:\CourseWork\bin\Debug\MathNet.Numerics.dll
+C:\CourseWork\bin\Debug\MathNet.Numerics.xml
+C:\CourseWork\obj\Debug\CourseWork.csproj.CopyComplete
+C:\Users\Max\Desktop\CourseWorkLena\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\Max\Desktop\CourseWorkLena\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\Max\Desktop\CourseWorkLena\CourseWork\bin\Debug\MathNet.Numerics.dll
+C:\Users\Max\Desktop\CourseWorkLena\CourseWork\bin\Debug\MathNet.Numerics.xml
+C:\Users\Max\Desktop\CourseWorkLena\CourseWork\obj\Debug\CourseWork.csprojAssemblyReference.cache
+C:\Users\Max\Desktop\CourseWorkLena\CourseWork\obj\Debug\CourseWork.HelpForm.resources
+C:\Users\Max\Desktop\CourseWorkLena\CourseWork\obj\Debug\CourseWork.InfoForm.resources
+C:\Users\Max\Desktop\CourseWorkLena\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\Max\Desktop\CourseWorkLena\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\Max\Desktop\CourseWorkLena\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\CourseWorkLena\CourseWork\obj\Debug\CourseWork.csproj.CopyComplete
+C:\Users\Max\Desktop\CourseWorkLena\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\Max\Desktop\CourseWorkLena\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\Max\Desktop\CourseWorkLena\CourseWork\bin\Debug\Meta.Numerics.dll
+C:\Users\Max\Desktop\CourseWorkLena\CourseWork\obj\Debug\CourseWork.MainWindow.resources
+C:\Users\beelink\Desktop\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\beelink\Desktop\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\beelink\Desktop\CourseWork\bin\Debug\MathNet.Numerics.dll
+C:\Users\beelink\Desktop\CourseWork\bin\Debug\Meta.Numerics.dll
+C:\Users\beelink\Desktop\CourseWork\bin\Debug\MathNet.Numerics.xml
+C:\Users\beelink\Desktop\CourseWork\obj\Debug\CourseWork.csprojAssemblyReference.cache
+C:\Users\beelink\Desktop\CourseWork\obj\Debug\CourseWork.MainWindow.resources
+C:\Users\beelink\Desktop\CourseWork\obj\Debug\CourseWork.HelpForm.resources
+C:\Users\beelink\Desktop\CourseWork\obj\Debug\CourseWork.InfoForm.resources
+C:\Users\beelink\Desktop\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\beelink\Desktop\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\beelink\Desktop\CourseWork\obj\Debug\CourseWork.csproj.CopyComplete
+C:\Users\beelink\Desktop\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\beelink\Desktop\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\Max\Desktop\CourseWork\bin\Debug\Meta.Numerics.dll
+C:\Users\Max\Desktop\CourseWork\obj\Debug\CourseWork.MainWindow.resources
+C:\Users\Max\Desktop\CourseWork\obj\Debug\CourseWork.ChangeCountForm.resources
+C:\Users\beelink\Desktop\CourseWork\obj\Debug\CourseWork.ChangeCountForm.resources
+S:\Универ\4 курс 1 сем\Стохастика\Курсач Веклич\Desktop\CourseWork\bin\Debug\CourseWork.exe
+S:\Универ\4 курс 1 сем\Стохастика\Курсач Веклич\Desktop\CourseWork\bin\Debug\CourseWork.pdb
+S:\Универ\4 курс 1 сем\Стохастика\Курсач Веклич\Desktop\CourseWork\bin\Debug\MathNet.Numerics.dll
+S:\Универ\4 курс 1 сем\Стохастика\Курсач Веклич\Desktop\CourseWork\bin\Debug\Meta.Numerics.dll
+S:\Универ\4 курс 1 сем\Стохастика\Курсач Веклич\Desktop\CourseWork\bin\Debug\MathNet.Numerics.xml
+S:\Универ\4 курс 1 сем\Стохастика\Курсач Веклич\Desktop\CourseWork\obj\Debug\CourseWork.csprojAssemblyReference.cache
+S:\Универ\4 курс 1 сем\Стохастика\Курсач Веклич\Desktop\CourseWork\obj\Debug\CourseWork.ChangeCountForm.resources
+S:\Универ\4 курс 1 сем\Стохастика\Курсач Веклич\Desktop\CourseWork\obj\Debug\CourseWork.MainWindow.resources
+S:\Универ\4 курс 1 сем\Стохастика\Курсач Веклич\Desktop\CourseWork\obj\Debug\CourseWork.HelpForm.resources
+S:\Универ\4 курс 1 сем\Стохастика\Курсач Веклич\Desktop\CourseWork\obj\Debug\CourseWork.InfoForm.resources
+S:\Универ\4 курс 1 сем\Стохастика\Курсач Веклич\Desktop\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+S:\Универ\4 курс 1 сем\Стохастика\Курсач Веклич\Desktop\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+S:\Универ\4 курс 1 сем\Стохастика\Курсач Веклич\Desktop\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+S:\Универ\4 курс 1 сем\Стохастика\Курсач Веклич\Desktop\CourseWork\obj\Debug\CourseWork.csproj.CopyComplete
+S:\Универ\4 курс 1 сем\Стохастика\Курсач Веклич\Desktop\CourseWork\obj\Debug\CourseWork.exe
+S:\Универ\4 курс 1 сем\Стохастика\Курсач Веклич\Desktop\CourseWork\obj\Debug\CourseWork.pdb

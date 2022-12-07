@@ -1,0 +1,16 @@
+S:\Универ\4 курс 1 сем\Стохастика\Курсач Веклич\Desktop\CourseWork\bin\Release\CourseWork.exe
+S:\Универ\4 курс 1 сем\Стохастика\Курсач Веклич\Desktop\CourseWork\bin\Release\CourseWork.pdb
+S:\Универ\4 курс 1 сем\Стохастика\Курсач Веклич\Desktop\CourseWork\bin\Release\MathNet.Numerics.dll
+S:\Универ\4 курс 1 сем\Стохастика\Курсач Веклич\Desktop\CourseWork\bin\Release\Meta.Numerics.dll
+S:\Универ\4 курс 1 сем\Стохастика\Курсач Веклич\Desktop\CourseWork\bin\Release\MathNet.Numerics.xml
+S:\Универ\4 курс 1 сем\Стохастика\Курсач Веклич\Desktop\CourseWork\obj\Release\CourseWork.csprojAssemblyReference.cache
+S:\Универ\4 курс 1 сем\Стохастика\Курсач Веклич\Desktop\CourseWork\obj\Release\CourseWork.ChangeCountForm.resources
+S:\Универ\4 курс 1 сем\Стохастика\Курсач Веклич\Desktop\CourseWork\obj\Release\CourseWork.MainWindow.resources
+S:\Универ\4 курс 1 сем\Стохастика\Курсач Веклич\Desktop\CourseWork\obj\Release\CourseWork.HelpForm.resources
+S:\Универ\4 курс 1 сем\Стохастика\Курсач Веклич\Desktop\CourseWork\obj\Release\CourseWork.InfoForm.resources
+S:\Универ\4 курс 1 сем\Стохастика\Курсач Веклич\Desktop\CourseWork\obj\Release\CourseWork.Properties.Resources.resources
+S:\Универ\4 курс 1 сем\Стохастика\Курсач Веклич\Desktop\CourseWork\obj\Release\CourseWork.csproj.GenerateResource.cache
+S:\Универ\4 курс 1 сем\Стохастика\Курсач Веклич\Desktop\CourseWork\obj\Release\CourseWork.csproj.CoreCompileInputs.cache
+S:\Универ\4 курс 1 сем\Стохастика\Курсач Веклич\Desktop\CourseWork\obj\Release\CourseWork.csproj.CopyComplete
+S:\Универ\4 курс 1 сем\Стохастика\Курсач Веклич\Desktop\CourseWork\obj\Release\CourseWork.exe
+S:\Универ\4 курс 1 сем\Стохастика\Курсач Веклич\Desktop\CourseWork\obj\Release\CourseWork.pdb
